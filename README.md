@@ -1,3 +1,5 @@
+[![Manech's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManechLepage&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @ManechLepage
 - 👀 I’m interested in game developping
 - 🌱 I’m currently learning python and c#
