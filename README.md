@@ -2,10 +2,9 @@
 
 - 👋 Hi, I’m @ManechLepage
 - 👀 I’m interested in game developping
-- 🌱 I’m currently learning python and c#
+- 🌱 I’m currently learning python and gdscript
 - 💞️ I’m looking to collaborate on games and various other projects
 - 📫 How to reach me:
-    - School email: lepagema@educ.college-montreal.qc.ca
     - Personal email: manech.lepage@gmail.com
 
 <!---
